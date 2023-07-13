@@ -1,5 +1,22 @@
 {
     "aircrafts": {
-      
+        "3575": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                "name": "Great British Air 787",
+                "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA787.png"]
+                }
+            ]
+        },
+         "237": {
+            "index": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "parts": [0, 23, 27, 28, 29, 30, 31, 32, 36],
+            "liveries": [{
+                    "name": "Trans Australian",
+                    "texture": ["", "", "", "", "", "", "", "", ""]
+                }
+            ]
+        }
     }
 }
