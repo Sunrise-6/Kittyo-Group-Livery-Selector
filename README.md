@@ -12,7 +12,13 @@ Addon contains liveries made for Kittyo Group Airlines such as Great British Air
 # How to Contribute
 Make your own liveries using livery maps. Dm Sunrise 6#4880 on Discord for livery maps and to add them. Alternatively contact me on the GBA, Kittyo, LiverySelector or Multiliveries(Spice9) servers.
 
+# How to use?
+### Without installation:
+- Open up the javascript console using Developer Options in your browser
+- If this is the first time using the script, paste ``localStorage.favorites = "";`` into the console.
+- Copy & paste all of main.js into the console and run.
+
 # Contacts
 Discord: Sunrise 6#4880
-Discord Server: https://discord.gg/cfsguHNQ ; GBA Server
-GitHub: Add in issues
+<br>Discord Server: https://discord.gg/cfsguHNQ ; GBA Server</br>
+<br>GitHub: Add in issues</br>
