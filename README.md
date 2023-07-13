@@ -6,6 +6,8 @@ Addon contains liveries made for Kittyo Group Airlines such as Great British Air
 
 If you are facing issues with this, please post it in the Issues tab of this github page.
 
+Huge credit to kolos26 at [GeoFS Livery Selector](https://github.com/kolos26/GEOFS-LiverySelector/tree/main) for portions of the code.
+
 # Features
 - Has Liveries from major airlines
 - Easily added into GeoFS
