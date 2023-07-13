@@ -4,6 +4,8 @@ Livery handler for Kittyo Group liveries in GeoFS CRP
 
 Addon contains liveries made for Kittyo Group Airlines such as Great British Air, Air Alps and Kittyo Airways. The goal is to add these liveries into GeoFS in our own livery selector so it is easier to manage and handle. 
 
+If you are facing issues with this, please post it in the Issues tab of this github page.
+
 # Features
 - Has Liveries from major airlines
 - Easily added into GeoFS
