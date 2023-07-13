@@ -22,6 +22,12 @@ Make your own liveries using livery maps. Dm Sunrise 6#4880 on Discord for liver
 - If this is the first time using the script, paste ``localStorage.favorites = "";`` into the console.
 - Copy & paste all of main.js into the console and run.
 
+# Planes
+|Status|Plane|CCA?|Livery|
+|-|-|-|-|
+|Completed|Boeing 787-9|Yes; Spice-9|Great British Airways|
+|Completed|Boeing 767-300ER|Yes|Trans Australian|
+
 # Contacts
 Discord: Sunrise 6#4880
 <br>Discord Server: https://discord.gg/cfsguHNQ ; GBA Server</br>
