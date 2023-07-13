@@ -1,5 +1,4 @@
 # Kittyo-Group-Livery-Selector
-[Placeholder Markdown File]
 
 Livery handler for Kittyo Group liveries in GeoFS CRP
 
