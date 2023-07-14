@@ -14,7 +14,9 @@ Huge credit to kolos26 at [GeoFS Livery Selector](https://github.com/kolos26/GEO
 - Easy To Use
 
 # How to Contribute
-Make your own liveries using livery maps. Dm Sunrise 6#4880 on Discord for livery maps and to add them. Alternatively contact me on the GBA, Kittyo, LiverySelector or Multiliveries(Spice9) servers.
+Make your own liveries using livery maps. 
+<br>Dm ```Sunrise 6#4880``` on Discord for livery maps and to add them. Alternatively contact me on the GBA, Kittyo, LiverySelector or Multiliveries(Spice9) servers.</br>
+<br>Alternatively, you can DM ```itsthegrumpyparrotman``` directly on discord or contact on the GeoFS Official, Wiki, or GBA servers.</br> 
 
 # How to use?
 ### Without installation:
@@ -28,7 +30,15 @@ Make your own liveries using livery maps. Dm Sunrise 6#4880 on Discord for liver
 |Completed|Boeing 787-9|Yes; Spice-9|Great British Airways|
 |Completed|Boeing 767-300ER|Yes|Trans Australian|
 
+
 # Contacts
 Discord: Sunrise 6#4880
 <br>Discord Server: https://discord.gg/cfsguHNQ ; GBA Server</br>
 <br>GitHub: Add in issues</br>
+
+Discord: itsthegrumpyparrotman
+<br>Discord Server: https://discord.gg/cfsguHNQ; GBA Server, or GeofS WIKI or GeoFS Offical Server</br>
+<br>Github: Add in issues</br>
+
+# Other Projects?
+You can try out Parrot Man's Chinese Livery Selector [Here]("https://github.com/Aternosus/GeoFS-Chinese-Livery-Selector")
