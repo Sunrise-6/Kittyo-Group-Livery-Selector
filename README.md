@@ -41,4 +41,4 @@ Discord: itsthegrumpyparrotman
 <br>Github: Add in issues</br>
 
 # Other Projects?
-You can try out Parrot Man's Chinese Livery Selector [Here]("https://github.com/Aternosus/GeoFS-Chinese-Livery-Selector")
+You can try out Parrot Man's Chinese Livery Selector [here](https://github.com/Aternosus/GeoFS-Chinese-Livery-Selector)
