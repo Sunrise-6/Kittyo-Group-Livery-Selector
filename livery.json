@@ -4,7 +4,7 @@
             "index": [0],
             "parts": [0],
             "liveries": [{
-                "name": "Great British Air 787",
+                "name": "Great British Air ",
                 "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA787.png"]
                 }
             ]
@@ -17,6 +17,14 @@
                     "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png"]
                 }
             ]
-        }
+        },
+         "3054": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                "name": "Kittyo Airways",
+                "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KAY737-800.png"]
+            }
+        ]
     }
 }
