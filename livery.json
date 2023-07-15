@@ -36,7 +36,16 @@
             }
             ]
         },
+        "238": {
+            "index": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "parts": [0, 9, 23, 24, 25, 26, 27, 28, 29, 30, 37],
+            "liveries": [{
+                "name": "TAA",
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA757-200.png"]
+            }
+            ]
          
 
 }
 }    
+}
