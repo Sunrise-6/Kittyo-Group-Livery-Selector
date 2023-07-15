@@ -55,6 +55,15 @@
                 "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAI737-700.png"]
             }
             ]
-}    
+        },
+        "20": {
+            "index": [4],
+            "parts": [0],
+            "liveries": [{ 
+                "name": "TAA"
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAConcorde.png"]
+            }
+            ]
+        }
 }
 }
