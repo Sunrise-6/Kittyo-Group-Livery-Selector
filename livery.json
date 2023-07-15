@@ -60,10 +60,19 @@
             "index": [4],
             "parts": [0],
             "liveries": [{ 
-                "name": "TAA"
-                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAConcorde.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAConcorde.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAConcorde.png"]
+                "name": "TAA",
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAConcorde.png"]
             }
             ]
-        }
+        },
+         "10": {
+            "index": [3],
+            "parts": [0],
+            "liveries": [{
+                "name": "GBA Test",
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBATrialA380-800.png"]
+            }
+            ]
+}
 }
 }
