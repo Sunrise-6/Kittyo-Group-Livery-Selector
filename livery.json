@@ -44,7 +44,7 @@
             },
             {
                 "name": "AirOne",
-                "texture":[https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA319.png"]
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA319.png"]
             }
             ]
         },
@@ -91,7 +91,7 @@
             "parts": [0],
             "liveries": [{
                 "name": "Great British Air",
-                "texture":[https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBAA220-300.png"]
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBAA220-300.png"]
             }
 }
 }
