@@ -15,6 +15,10 @@
             "liveries": [{
                     "name": "Trans Australian",
                     "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png"]
+                },
+                {
+                    "name": "Kittyo Airways",
+                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTY767-300ER.png"]
                 }
             ]
         },
@@ -33,6 +37,14 @@
             "liveries":[{
                 "name": "LAC",
                 "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LACA319-100.png"]
+            },
+            {
+                "name": "HappiCat OG",
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCAA319.png"]
+            },
+            {
+                "name": "AirOne",
+                "texture":[https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA319.png"]
             }
             ]
         },
@@ -70,9 +82,17 @@
             "parts": [0],
             "liveries": [{
                 "name": "GBA Test",
-                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBATrialA380-800.png"]
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBATrial2A380-800.png"]
             }
             ]
+        },
+          "2899": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                "name": "Great British Air",
+                "texture":[https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBAA220-300.png"]
+            }
 }
 }
 }
