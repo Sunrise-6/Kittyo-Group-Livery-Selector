@@ -19,6 +19,10 @@
                 {
                     "name": "Kittyo Airways",
                     "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTY767-300ER.png"]
+                },
+                {
+                    "name": "Great British Air",
+                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA767-300E.png"]
                 }
             ]
         },
@@ -99,7 +103,7 @@
             "parts": [0],
             "liveries": [{
                 "name": "Great British Air",
-                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBAA320neo.png"]
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA-A320neo.png"]
             } ]
         }
 }
