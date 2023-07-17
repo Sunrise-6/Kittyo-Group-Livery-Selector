@@ -64,7 +64,7 @@
             "parts": [0],
             "liveries": [{
                 "name": "Tech Air Trial",
-                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAI737-700.png"]
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAI737-7.png"]
             }
             ]
         },
@@ -73,7 +73,7 @@
             "parts": [0],
             "liveries": [{ 
                 "name": "TAA",
-                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_Concorde.png"]
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAConcord.png"]
             }
             ]
         },
@@ -91,7 +91,7 @@
             "parts": [0],
             "liveries": [{
                 "name": "Great British Air",
-                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBAA220-300.png"]
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBAA220.png"]
             } ]
 }
 }
