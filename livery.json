@@ -58,6 +58,9 @@
             "liveries": [{
                 "name": "TAA",
                 "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png", "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_757-200.png"]
+            }]
+            
+        },
         "4": {
             "index": [3],
             "parts": [0],
@@ -103,5 +106,4 @@
         }
 }
 }
-    }
-}
+
