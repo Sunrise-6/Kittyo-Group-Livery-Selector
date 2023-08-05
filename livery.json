@@ -118,15 +118,11 @@
             },
             {
                 "name": "Kittyo Airways",
-                "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYA320neo.png"]
+                "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYA320.png"]
             },
             {
-                "name": "Kittyo Airways 2",
-                "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KYTA-A320NEO-T2.png"]
-            },
-            {
-                "name": "Project Kittyo",
-                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/PRJKTYA320n.png"]
+                "name": "Project Kitty",
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/PRJKTYA320ne.png"]
             }
             ]
         },
