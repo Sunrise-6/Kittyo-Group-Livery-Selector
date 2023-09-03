@@ -134,6 +134,15 @@
                 "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/SKY787.jpeg"]
             }
             ]
-}
+        },
+         "2892":{
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                "name": "Kittyo Airways",
+                "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYSaab1.png"]
+            }
+                }
+    
 }
 }
