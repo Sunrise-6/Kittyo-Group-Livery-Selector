@@ -16,13 +16,16 @@ Huge credit to kolos26 at [GeoFS Livery Selector](https://github.com/kolos26/GEO
 # How to Contribute
 Make your own liveries using livery maps. 
 <br>Dm ```Sunrise 6#4880``` on Discord for livery maps and to add them. Alternatively contact me on the GBA, Kittyo, LiverySelector or Multiliveries(Spice9) servers.</br>
-<br>Alternatively, you can DM ```itsthegrumpyparrotman``` directly on discord or contact on the GeoFS Official, Wiki, or GBA servers.</br> 
+<br>Alternatively, you can DM ```itsthegrumpyparrotman``` directly on Discord or contact on the GeoFS Official, Wiki, or GBA servers.</br> 
 
 # How to use?
 ### Without installation:
 - Open up the javascript console using Developer Options in your browser
 - If this is the first time using the script, paste ``localStorage.favorites = "";`` into the console.
 - Copy & paste all of main.js into the console and run.
+### Woth installation (Experimental!):
+- Download tampermonkey extension
+- Paste tampermonkey.js into tampermonkey
 
 # Contacts
 Discord: Sunrise 6#4880
