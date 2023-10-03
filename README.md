@@ -27,6 +27,15 @@ Make your own liveries using livery maps.
 - Download tampermonkey extension
 - Paste tampermonkey.js into tampermonkey
 
+# Project Roadmap 🗺️ 
+- More Liveries as this project goes
+- [x] Successful JS Console Beta Testing
+- [ ] Offical JS Console Full Release
+- [ ] Successful Tampermonkey Beta Testing
+- [ ] Offical Tampermonkey Full Release
+- [ ] Successful Extensions Beta Testing
+- [ ] Successful Extensions Full Release
+
 # Contacts
 Discord: Sunrise 6#4880
 <br>Discord Server: https://discord.gg/cfsguHNQ ; GBA Server</br>
