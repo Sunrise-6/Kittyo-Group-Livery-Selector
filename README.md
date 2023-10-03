@@ -41,6 +41,6 @@ Discord: ```Sunrise 6#4880```
 <br>Discord Server: https://discord.gg/cfsguHNQ ; GBA Server</br>
 <br>GitHub: Add in issues</br>
 
-Discord: ```itsthegrumpyparrotman````
+Discord: ```itsthegrumpyparrotman```
 <br>Discord Server: https://discord.gg/cfsguHNQ; GBA Server, or GeofS WIKI or GeoFS Offical Server</br>
 <br>Github: Add in issues</br>
