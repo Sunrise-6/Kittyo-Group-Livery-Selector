@@ -37,13 +37,10 @@ Make your own liveries using livery maps.
 - [ ] Successful Extensions Full Release
 
 # Contacts
-Discord: Sunrise 6#4880
+Discord: ```Sunrise 6#4880```
 <br>Discord Server: https://discord.gg/cfsguHNQ ; GBA Server</br>
 <br>GitHub: Add in issues</br>
 
-Discord: itsthegrumpyparrotman
+Discord: ```itsthegrumpyparrotman````
 <br>Discord Server: https://discord.gg/cfsguHNQ; GBA Server, or GeofS WIKI or GeoFS Offical Server</br>
 <br>Github: Add in issues</br>
-
-# Other Projects?
-You can try out Parrot Man's Chinese Livery Selector [here](https://github.com/Aternosus/GeoFS-Chinese-Livery-Selector)
