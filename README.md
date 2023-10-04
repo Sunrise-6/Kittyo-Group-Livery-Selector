@@ -28,13 +28,7 @@ Make your own liveries using livery maps.
 - Paste tampermonkey.js into tampermonkey
 
 # Project Roadmap 🗺️ 
-- More Liveries as this project goes
-- [x] Successful JS Console Beta Testing
-- [ ] Offical JS Console Full Release
-- [ ] Successful Tampermonkey Beta Testing
-- [ ] Offical Tampermonkey Full Release
-- [ ] Successful Extensions Beta Testing
-- [ ] Successful Extensions Full Release
+[Clickie here!](https://docs.google.com/document/d/1zbSxtskQzCmVbgs93H4jcPZ2rJ7LBL9yUURcCs6yh64/edit?usp=sharing)
 
 # Contacts
 Discord: ```Sunrise 6#4880```
