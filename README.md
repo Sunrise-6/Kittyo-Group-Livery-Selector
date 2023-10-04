@@ -25,9 +25,6 @@ Make your own liveries using livery maps.
 - Open up the javascript console using Developer Options in your browser
 - If this is the first time using the script, paste ``localStorage.favorites = "";`` into the console.
 - Copy & paste all of the main.js into the console and run.
-### With installation (Experimental!):
-- Download tampermonkey extension
-- Paste tampermonkey.js into tampermonkey
 
 # Project Roadmap 🗺️ 
 [Clickie here!](https://docs.google.com/document/d/1zbSxtskQzCmVbgs93H4jcPZ2rJ7LBL9yUURcCs6yh64/edit?usp=sharing)
