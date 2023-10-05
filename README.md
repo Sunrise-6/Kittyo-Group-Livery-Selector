@@ -1,3 +1,6 @@
+
+![alt text](https://raw.githubusercontent.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/main/images/KGLS.png)
+
 # Kittyo-Group-Livery-Selector
 
 Livery handler for Kittyo Group liveries in GeoFS CRP
