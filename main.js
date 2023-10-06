@@ -21,7 +21,7 @@ async function init(){
     aboutdiv.setAttribute("data-onshow", "{geofs.initializePreferencesPanel()}");
     aboutdiv.setAttribute("data-onhide", "{geofs.savePreferencesPanel()}");
     aboutdiv.setAttribute("class", "geofs-list geofs-toggle-panel geofs-about-list geofs-visible")
-    aboutdiv.innerHTML = '' //Add stuff here
+    aboutdiv.innerHTML = '<style> button { background-color: #2e415e; border-radius: 15px / 15px; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 13px; margin: 4px 2px; cursor: pointer; } </style> <h3> <img src="https://raw.githubusercontent.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/main/images/KGLS-transparent.png" width="95%" title="Livery selector" style=" display: block; margin-left: auto; margin-right: auto; border-radius: 20%; " /> </h3> <h2 style="font-weight: normal">About KittyoLS</h2> Click the links below! <div> <button onclick="window.open("https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector")" > Github LS Releases </button> <button onclick="window.open("https://github.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/tree/main")" > Github LS Prereleases </button> <button onclick="window.open('https://docs.google.com/document/d/1zbSxtskQzCmVbgs93H4jcPZ2rJ7LBL9yUURcCs6yh64/edit?usp=sharing')" > Project Roadmap </button> </div> <h3 style="font-weight: normal">Maintained by the KGLS Team:</h3> <div>Parrot Man</div> <div>Sunrise 6</div> <div>For more information please check the Github Releases page.</div>' //Add stuff here
     document.getElementsByClassName("geofs-ui-left")[0].appendChild(aboutdiv);
     
 
