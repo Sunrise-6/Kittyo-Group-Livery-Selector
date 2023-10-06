@@ -16,6 +16,15 @@ async function init(){
     listdiv.innerHTML = '<h3><img src="https://raw.githubusercontent.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/main/images/KGLS-transparent.png" width="95%" title="Livery selector" style="display: block; margin-left: auto; margin-right: auto; border-radius: 20%"/></h3><div class="mdl-textfield mdl-js-textfield geofs-stopMousePropagation geofs-stopKeyupPropagation" style="width: 100%; padding-right: 86px;"><input class="mdl-textfield__input address-input" type="text" id="address" placeholder="Search liveries" onkeydown="search(this.value)" id="searchlivery"><label class="mdl-textfield__label" for="searchlivery">Search liveries</label></div><h6>Favorite liveries</h6><ul id="favorites" class="geofs-list geofs-visible"></ul><h6>Available liveries</h6><ul id="liverylist" class=" geofs-list geofs-visible"></ul>'
     document.getElementsByClassName("geofs-ui-left")[0].appendChild(listdiv);
 
+    let aboutdiv = document.createElement("div");
+    aboutdiv.setAttribute("data-noblur", "true");
+    aboutdiv.setAttribute("data-onshow", "{geofs.initializePreferencesPanel()}");
+    aboutdiv.setAttribute("data-onhide", "{geofs.savePreferencesPanel()}");
+    aboutdiv.setAttribute("class", "geofs-list geofs-toggle-panel geofs-about-list geofs-visible")
+    aboutdiv.innerHTML = '' //Add stuff here
+    document.getElementsByClassName("geofs-ui-left")[0].appendChild(aboutdiv);
+    
+
     // Button for panel
     let buttonDiv = document.createElement("div");
     buttonDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-livery-list" data-tooltip-classname="mdl-tooltip--top" id="liverybutton" tabindex="0" data-upgraded=",MaterialButton" onclick="listLiveries()" title="Change livery">LIVERY</button>'
@@ -25,6 +34,16 @@ async function init(){
         document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(element, document.getElementsByClassName("geofs-ui-bottom")[0].children[4]);
     } else {
         document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(element, document.getElementsByClassName("geofs-ui-bottom")[0].children[3]);
+    }
+
+    let buttonTwoDiv = document.createElement("div");
+    buttonTwoDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-about-list" data-tooltip-classname="mdl-tooltip--top" id="aboutbutton" tabindex="0" data-upgraded=",MaterialButton" onclick="aboutPage()" title="About LS">(?)</button>'
+    document.body.appendChild(buttonTwoDiv);
+    let elementTwo = document.getElementById("aboutbutton");
+    if (geofs.version >= 3.6){
+        document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(elementTwo, document.getElementsByClassName("geofs-ui-bottom")[0].children[5]);
+    } else {
+        document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(elementTwo, document.getElementsByClassName("geofs-ui-bottom")[0].children[4]);
     }
 
     let styles = document.createElement("div");
