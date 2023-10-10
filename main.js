@@ -13,18 +13,37 @@ async function init(){
     listdiv.setAttribute("data-onshow", "{geofs.initializePreferencesPanel()}");
     listdiv.setAttribute("data-onhide", "{geofs.savePreferencesPanel()}");
     listdiv.setAttribute("class", "geofs-list geofs-toggle-panel geofs-livery-list geofs-visible")
-    listdiv.innerHTML = '<h3><img src="https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/image2.png" width="95%" title="Livery selector" style="display: block; margin-left: auto; margin-right: auto; border-radius: 20%"/></h3><div class="mdl-textfield mdl-js-textfield geofs-stopMousePropagation geofs-stopKeyupPropagation" style="width: 100%; padding-right: 86px;"><input class="mdl-textfield__input address-input" type="text" id="address" placeholder="Search liveries" onkeydown="search(this.value)" id="searchlivery"><label class="mdl-textfield__label" for="searchlivery">Search liveries</label></div><h6>Favorite liveries</h6><ul id="favorites" class="geofs-list geofs-visible"></ul><h6>Available liveries</h6><ul id="liverylist" class=" geofs-list geofs-visible"></ul>'
+    listdiv.innerHTML = '<h3><img src="https://raw.githubusercontent.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/main/images/KGLS-transparent.png" width="95%" title="Livery selector" style="display: block; margin-left: auto; margin-right: auto; border-radius: 20%"/></h3><div class="mdl-textfield mdl-js-textfield geofs-stopMousePropagation geofs-stopKeyupPropagation" style="width: 100%; padding-right: 86px;"><input class="mdl-textfield__input address-input" type="text" id="address" placeholder="Search liveries" onkeydown="search(this.value)" id="searchlivery"><label class="mdl-textfield__label" for="searchlivery">Search liveries</label></div><h6>Favorite liveries</h6><ul id="favorites" class="geofs-list geofs-visible"></ul><h6>Available liveries</h6><ul id="liverylist" class=" geofs-list geofs-visible"></ul>'
     document.getElementsByClassName("geofs-ui-left")[0].appendChild(listdiv);
+
+    let aboutdiv = document.createElement("div");
+    aboutdiv.setAttribute("data-noblur", "true");
+    aboutdiv.setAttribute("data-onshow", "{geofs.initializePreferencesPanel()}");
+    aboutdiv.setAttribute("data-onhide", "{geofs.savePreferencesPanel()}");
+    aboutdiv.setAttribute("class", "geofs-list geofs-toggle-panel geofs-about-list geofs-visible")
+    aboutdiv.innerHTML = '<style> .aboutButton { background-color: rgb(46, 65, 94, 0.6); border-radius: 15px / 15px; border: none; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 9px; margin: 4px 2px; cursor: pointer; } .aboutDiv { background-color: rgb(211, 211, 211, 0.3); border-radius: 15px / 15px; border: none; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 13px; margin: 4px 2px; width: 90%; } </style> <h3> <img src="https://raw.githubusercontent.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/main/images/KGLS-transparent.png" width="95%" title="Livery selector" style=" display: block; margin-left: auto; margin-right: auto; border-radius: 20%; " /> </h3> <div class = "aboutDiv"> <h4 style="font-weight: normal">About KittyoLS</h4> Links below!! </div> <div class = "aboutDiv"> <button class = "aboutButton" onclick= "redirect(0)" > Github LS Releases </button> <button class = "aboutButton" onclick="redirect(1))" > Github LS Prereleases </button> <button class = "aboutButton" onclick="redirect(2)" > Project Roadmap </button> <button class = "aboutButton" onclick="redirect(3)"> Feedback Here! </button> </div> <div class = "aboutDiv"> <h5 style="font-weight: normal">Maintained by Parrot Man & Sunrise 6</h5> <h5 style="font-weight: normal">Based off the Kolos26 Livery Selector</h5> For more information about Livery Selector or issues please check the Github Releases page. </div> <div class = "aboutDiv"> <br> Build Number: v1.1.0p-1 </br> <br> JSC Kernel: v2.0.3 </br> <br> TPM Kernel: (Coming Soon) </br> </div>' //Add stuff here
+    document.getElementsByClassName("geofs-ui-left")[0].appendChild(aboutdiv);
+    
 
     // Button for panel
     let buttonDiv = document.createElement("div");
-    buttonDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-livery-list" data-tooltip-classname="mdl-tooltip--top" id="liverybutton" tabindex="0" data-upgraded=",MaterialButton" onclick="listLiveries()" title="Change livery">LIVERY<img src="          " height="30px" style = "border-radius: 50%;"/></button>'
+    buttonDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-livery-list" data-tooltip-classname="mdl-tooltip--top" id="liverybutton" tabindex="0" data-upgraded=",MaterialButton" onclick="listLiveries()" title="Change livery">LIVERY</button>'
     document.body.appendChild(buttonDiv);
     let element = document.getElementById("liverybutton");
     if (geofs.version >= 3.6){
         document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(element, document.getElementsByClassName("geofs-ui-bottom")[0].children[4]);
     } else {
         document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(element, document.getElementsByClassName("geofs-ui-bottom")[0].children[3]);
+    }
+
+    let buttonTwoDiv = document.createElement("div");
+    buttonTwoDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-about-list" data-tooltip-classname="mdl-tooltip--top" id="aboutbutton" tabindex="0" data-upgraded=",MaterialButton" onclick="aboutPage()" title="About LS">(?)</button>'
+    document.body.appendChild(buttonTwoDiv);
+    let elementTwo = document.getElementById("aboutbutton");
+    if (geofs.version >= 3.6){
+        document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(elementTwo, document.getElementsByClassName("geofs-ui-bottom")[0].children[5]);
+    } else {
+        document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(elementTwo, document.getElementsByClassName("geofs-ui-bottom")[0].children[4]);
     }
 
     let styles = document.createElement("div");
@@ -42,6 +61,22 @@ async function init(){
         e.parentElement.removeChild(e);
     })
 
+}
+
+// Open external webpages!
+function redirect(webpageSelect){
+    if (webpageSelect == 0){
+        window.open("https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector");
+    }
+    if (webpageSelect == 1){
+        window.open("https://github.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/tree/main");
+    }
+    if (webpageSelect == 2){
+        window.open("https://docs.google.com/document/d/1zbSxtskQzCmVbgs93H4jcPZ2rJ7LBL9yUURcCs6yh64/edit?usp=sharing");
+    }
+    if (webpageSelect == 3){
+        window.open("https://docs.google.com/forms/d/e/1FAIpQLScgcPHYzc96PIP6G6KOIjxQg678isy7921l3Vksqp7XBfrdmA/viewform");
+    }
 }
 
 function loadLivery(texture, index, parts){
