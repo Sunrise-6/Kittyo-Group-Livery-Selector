@@ -1,5 +1,5 @@
 
-![alt text](https://raw.githubusercontent.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/main/images/KGLS.png)
+![alt text](https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/images/KGLS.png)
 
 # Kittyo-Group-Livery-Selector
 
