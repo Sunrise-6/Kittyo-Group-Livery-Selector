@@ -48,9 +48,11 @@
         },
         {
           "name": "LAC",
-          "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LAC_Concorde.png"]
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LAC_Concorde.png"
+          ]
         }
-       ]
+      ]
     },
     "237": {
       "index": [
@@ -180,6 +182,22 @@
         }
       ]
     },
+    "2418": {
+      "index": [
+        0
+      ],
+      "parts": [
+        0
+      ],
+      "liveries": [
+        {
+          "name": "Kittyo Airways",
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/Kittyo_Regional_ATR72_Livery_Geo-fs.png"
+          ]
+        }
+      ]
+    },
     "2871": {
       "index": [
         0
@@ -214,15 +232,21 @@
         },
         {
           "name": "Air One",
-          "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA32n.png"]
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA32n.png"
+          ]
         },
         {
           "name": "Wind Jet",
-          "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/WDJA320ne.png"]
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/WDJA320ne.png"
+          ]
         },
         {
           "name": "Livingston",
-          "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LIV32n.png"]
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LIV32n.png"
+          ]
         }
       ]
     },
@@ -254,11 +278,15 @@
         },
         {
           "name": "Kittyo Airways",
-          "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYA3191.png"]
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYA3191.png"
+          ]
         },
         {
           "name": "HCA Airlines Painter Edition",
-          "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCAOG1A319.png"]
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCAOG1A319.png"
+          ]
         }
       ]
     },
@@ -348,6 +376,22 @@
         }
       ]
     },
+    "4140": {
+      "index": [
+        1
+      ],
+      "parts": [
+        0
+      ],
+      "liveries": [
+        {
+          "name": "TAA",
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA732.png"
+          ]
+        }
+      ]
+    },
     "4631": {
       "index": [
         0
@@ -364,23 +408,11 @@
         },
         {
           "name": "Air One",
-          "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA330neo.png"]
-        }
+          "texture": [
+            "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA330neo.png"
           ]
-    },
-    "4140": {
-            "index": [
-                1
-            ],
-            "parts": [
-                0
-            ],
-            "liveries": [
-                {
-                  "name": "TAA",
-                  "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA732.png"]
-                }
-            ]    
+        }
+      ]
+    }
   }
-}
 }
