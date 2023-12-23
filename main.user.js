@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS Livery Selector
 // @namespace    https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector/tree/main
-// @version      v2.0.0p-1
+// @version      v2.0.0
 // @description  Livery Handler for Kittyo Group (and companies in collaboration with)
 // @author       GrumpyMusician
 // @match        https://geo-fs.com/geofs.php*
