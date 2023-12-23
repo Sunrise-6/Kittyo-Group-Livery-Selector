@@ -373,6 +373,10 @@
           "texture": [
             "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/SKY787.jpeg"
           ]
+        },
+        {
+          "name": "Kittyo Airways",
+          "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTY789.png"]
         }
       ]
     },
