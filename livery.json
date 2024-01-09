@@ -29,6 +29,10 @@
                "texture":[
                   "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBATrial2A380-800.png"
                ]
+            },
+            {
+               "name": "Kittyo Airways",
+               "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KittyoA380.png"]
             }
          ]
       },
