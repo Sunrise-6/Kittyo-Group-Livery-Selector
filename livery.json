@@ -83,6 +83,10 @@
                     "texture": [
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA35.png"
                     ]
+                },
+                {
+                    "name": "Air Hanada",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA350.png"]
                 }
             ]
         },
