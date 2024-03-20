@@ -16,7 +16,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture": ["https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector/blob/main/liveries/HANB737.png?raw=true"]
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANB737.png"]
                 }
             ]
         },
@@ -42,7 +42,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture":["https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector/blob/main/liveries/HANA388.png?raw=true"]
+                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA388.png"]
                 }
             ]
         },
@@ -90,7 +90,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture": ["https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector/blob/main/liveries/HANA359.png?raw=true"]
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA359.png"]
                 },
                 {
                     "name": "Lightning Airways",
