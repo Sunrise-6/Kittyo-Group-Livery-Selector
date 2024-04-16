@@ -16,7 +16,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANB737.png"]
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN7377.png"]
                 }
             ]
         },
@@ -42,7 +42,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA388.png"]
+                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA388N.png"]
                 }
             ]
         },
@@ -90,7 +90,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA359.png"]
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN359N.png"]
                 },
                 {
                     "name": "Lightning Airways",
@@ -114,6 +114,14 @@
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA7774k.png"
                     ]
+                },
+                {
+                    "name": "Air Hanada Cargo",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN77F.png"]
+                },
+                {
+                    "name": "Air Hanada Skyteam",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN77S.png"]
                 }
             ]
         },
@@ -260,6 +268,10 @@
                     "texture": [
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/Kittyo_Regional_ATR.png"
                     ]
+                },
+                {
+                    "name": "Air Hanada",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA72.png"]
                 }
             ]
         },
@@ -374,6 +386,10 @@
                     "texture": [
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYSaab1.png"
                     ]
+                },
+                {
+                    "name": "Air Hanada",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANS340.png"]
                 }
             ]
         },
