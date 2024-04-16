@@ -117,7 +117,9 @@
                 },
                 {
                     "name": "Air Hanada Cargo",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN77F.png"]
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN77F.png"]
                 },
                 {
                     "name": "Air Hanada Skyteam",
