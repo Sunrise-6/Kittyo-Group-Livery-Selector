@@ -506,6 +506,10 @@
                     "texture": [
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA330neo.png"
                     ]
+                },
+                {
+                    "name": "Kalitus",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KLA330N.png"]
                 }
             ]
         },
