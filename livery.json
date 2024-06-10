@@ -68,7 +68,9 @@
                 },
                 {
                     "name": "Old TAA/GBA",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAGBABOAC.png"]
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAGBABOAC.png"
+                    ]
                 }
             ]
         },
@@ -131,7 +133,9 @@
                 },
                 {
                     "name": "Happicat Australia",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCA773.png"]
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCA773.png"]
                 }
             ]
         },
