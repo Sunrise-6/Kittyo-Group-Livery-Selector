@@ -124,6 +124,10 @@
                 {
                     "name": "Air Hanada Skyteam",
                     "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN77S.png"]
+                },
+                {
+                    "name": "Happicat Australia",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCA773.png"]
                 }
             ]
         },
