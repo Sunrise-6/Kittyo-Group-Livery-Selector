@@ -65,6 +65,10 @@
                     "texture": [
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LAC_Concorde.png"
                     ]
+                },
+                {
+                    "name" : "Old TAA/GBA",
+                    "texture" ["ttps://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAGBABOAC.png"]
                 }
             ]
         },
