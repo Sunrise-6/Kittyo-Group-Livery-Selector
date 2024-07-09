@@ -183,29 +183,3 @@ ul.livery-custom-tabs {
     width: 100%;
     padding: 0;
 }
-
-.aboutButton {
-     background-color: rgb(46, 65, 94, 0.6);
-     border-radius: 15px / 15px;
-     border: none;
-     color: white;
-     padding: 15px 25px;
-     text-align: center;
-     text-decoration: none;
-     display: inline-block;
-     font-size: 9px;
-     margin: 4px 2px;
-     cursor: pointer;
-}
- .aboutDiv {
-     background-color: rgb(211, 211, 211, 0.3);
-     border-radius: 15px / 15px;
-     border: none;
-     padding: 15px 32px;
-     text-align: center;
-     text-decoration: none;
-     display: inline-block;
-     font-size: 13px;
-     margin: 4px 2px;
-     width: 90%;
-}
