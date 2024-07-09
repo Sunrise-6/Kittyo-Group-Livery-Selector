@@ -31,7 +31,11 @@ Make your own liveries using livery maps.
 
 ### Tampermonkey (Requires Tampermonkey Extension)
 - Download tampermonkey extension
-- Copy and paste the ```main.user.js``` file into Tampermonkey 
+- Copy and paste the ```main.user.js``` file into Tampermonkey
+- Tampermonkey is deprecated and may not work correctly.
+
+### BetterGUI (Requires BetterGUI Extension)
+- Under Construction!
 
 # Project Roadmap 🗺️ 
 [Clickie here!](https://docs.google.com/document/d/1zbSxtskQzCmVbgs93H4jcPZ2rJ7LBL9yUURcCs6yh64/edit?usp=sharing)
