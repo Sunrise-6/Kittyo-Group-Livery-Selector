@@ -30,6 +30,7 @@ let uploadHistory = [];
       'data-onhide': '{geofs.savePreferencesPanel()}',
     }
   );
+
   listDiv.innerHTML = generateListHTML();
 
   // Button for panel
@@ -73,9 +74,8 @@ async function handleLiveryJson(data) {
     element.innerHTML =
       origHTMLs[aircraftId] +
       createTag('img', {
-        src: `${githubRepo}/logosmall.png`,
-        height: '30px',
-        width: '30px',
+        src: `${githubRepo}/check.svg`,
+        height: '20px',
       }).outerHTML;
   });
 }
@@ -566,16 +566,16 @@ function generateListHTML() {
 
         <div class="livery-searchbar mdl-textfield mdl-js-textfield geofs-stopMousePropagation geofs-stopKeyupPropagation">
             <input class="mdl-textfield__input address-input" type="text" placeholder="Search liveries" onkeyup="LiverySelector.search(this.value)" id="searchlivery">
-            <label class="mdl-textfield__label" for="searchlivery">Search liveries</label>
+            <label class="mdl-textfield__label" for="searchlivery">Search Liveries</label>
         </div>
 
-        <h6 onclick="LiverySelector.toggleDiv('favorites')">Favorite liveries</h6>
+        <h6 onclick="LiverySelector.toggleDiv('favorites')">Favorite Liveries</h6>
         <ul id="favorites" class="geofs-list geofs-visible"></ul>
 
-        <h6 onclick="LiverySelector.toggleDiv('liverylist')">Available liveries</h6>
+        <h6 onclick="LiverySelector.toggleDiv('liverylist')">Available Liveries</h6>
         <ul id="liverylist" class=" geofs-list geofs-visible"></ul>
 
-        <h6 onclick="LiverySelector.toggleDiv('customDiv')" class="closed">Load external livery</h6>
+        <h6 onclick="LiverySelector.toggleDiv('customDiv')" class="closed">Load External Livery</h6>
         <div id="customDiv" class="mdl-textfield mdl-js-textfield geofs-stopMousePropagation geofs-stopKeyupPropagation" style="display:none;">
             <ul class="livery-custom-tabs" onclick="LiverySelector.handleCustomTabs()">
                 <li>Upload</li>
@@ -606,6 +606,45 @@ function generateListHTML() {
               </div>
             </div>
         </div>
+
+        <h6 onclick="LiverySelector.toggleDiv('aboutDivContainer')" class = "closed">About Kittyo Group Livery Selector</h6>
+        <ul id = "aboutDivContainer" class = "geofs-list geofs-visible" style="display:none;">
+          <style>
+            .aboutButton { 
+              background-color: rgb(46, 65, 94, 0.6); 
+              border-radius: 15px / 15px;
+              border: none; color: white; 
+              padding: 15px 25px; text-align: center; 
+              text-decoration: none; display: inline-block; 
+              font-size: 9px; margin: 4px 2px; cursor: pointer; 
+            } 
+            .aboutDiv { 
+              background-color: rgb(211, 211, 211, 0.3); 
+              border-radius: 15px / 15px; 
+              border: none; 
+              padding: 15px 50px; 
+              text-align: center; 
+              text-decoration: none; 
+              display: inline-block; 
+              font-size: 13px; margin: 4px 2px; width: 80%; 
+            }
+          </style>
+          <div class = "aboutDiv"><h4 style="font-weight: normal">About KittyoLS</h4> Links below: </div> 
+          <div class = "aboutDiv"> <button class = "aboutButton" onclick= "redirect(0)"> Github LS Releases </button> 
+            <button class = "aboutButton" onclick="redirect(1))" > Github LS Prereleases </button> 
+            <button class = "aboutButton" onclick="redirect(2)" > Project Roadmap </button> 
+            <button class = "aboutButton" onclick="redirect(3)"> Feedback Here! </button> 
+          </div> 
+          <div class = "aboutDiv"> <h5 style="font-weight: normal">Maintained by Parrot Man & Sunrise 6</h5> 
+            <h5 style="font-weight: normal">Based off the Kolos26 Livery Selector</h5> 
+            For more information about Livery Selector or issues please check the Github Releases page. 
+          </div> 
+          <div class = "aboutDiv"> 
+            <br> Build Number: v3.0.0p-1</br>
+            <br> JSC: v3.0.1 </br> 
+            <br> TPM: v2.0.0 Deprecated </br> 
+          </div>
+        </ul>
 `;
 }
 
@@ -641,3 +680,25 @@ window.LiverySelector = {
   inputLivery,
   uploadLivery,
 };
+
+//AHHHHHHHHHHHHHHHHHHHHHHHHH
+function redirect(webpageSelect) {
+  if (webpageSelect == 0) {
+    window.open('https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector');
+  }
+  if (webpageSelect == 1) {
+    window.open(
+      'https://github.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/tree/main'
+    );
+  }
+  if (webpageSelect == 2) {
+    window.open(
+      'https://docs.google.com/document/d/1zbSxtskQzCmVbgs93H4jcPZ2rJ7LBL9yUURcCs6yh64/edit?usp=sharing'
+    );
+  }
+  if (webpageSelect == 3) {
+    window.open(
+      'https://docs.google.com/forms/d/e/1FAIpQLScgcPHYzc96PIP6G6KOIjxQg678isy7921l3Vksqp7XBfrdmA/viewform'
+    );
+  }
+}
