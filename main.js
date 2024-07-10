@@ -1,5 +1,4 @@
-const githubRepo =
-  'https://raw.githubusercontent.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/main';
+const githubRepo = 'https://raw.githubusercontent.com/GrumpyMusician/Kittyo-Group-LS-Prerelease/main';
 
 let liveryobj;
 let multiplayertexture;
@@ -640,9 +639,9 @@ function generateListHTML() {
             For more information about Livery Selector or issues please check the Github Releases page. 
           </div> 
           <div class = "aboutDiv"> 
-            <br> Build Number: v3.0.0p-1</br>
+            <br> Build Number: v3.0.0p-2</br>
             <br> JSC: v3.0.1 </br> 
-            <br> TPM: v2.0.0 Deprecated </br> 
+            <br> TPM: v3.0.1 </br> 
           </div>
         </ul>
 `;
