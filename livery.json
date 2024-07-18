@@ -16,11 +16,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN7377.png"]
-                },
-                {
-                    "name": "Air Hanada Regional",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHR737-7.png"]
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHR7377.png"]
                 }
             ]
         },
@@ -46,7 +42,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHA388(2).png"]
+                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHA3882.png"]
                 }
             ]
         },
