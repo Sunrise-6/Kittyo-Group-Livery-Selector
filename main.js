@@ -324,7 +324,7 @@ function loadLiveryDirect(fileInput, i) {
         geofs.aircraft.instance.definition.parts[airplane.parts[i]]['3dmodel']
           ._model,
         newTexture,
-        airplane.index[i]
+        {index:airplane.index[i]}
       );
     }
     fileInput.value = null;
