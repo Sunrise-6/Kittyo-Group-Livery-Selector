@@ -17,6 +17,10 @@
                 {
                     "name": "Air Hanada",
                     "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN7377.png"]
+                },
+                {
+                    "name": "Air Hanada Regional",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHR737-7.png"]
                 }
             ]
         },
@@ -42,7 +46,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA388N.png"]
+                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHA388(2).png"]
                 }
             ]
         },
@@ -94,7 +98,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN359N.png"]
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHA359.png"]
                 },
                 {
                     "name": "Lightning Airways",
@@ -137,6 +141,12 @@
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCA773.png"]
+                },
+                {
+                    "name": "Royal Air French",
+                    "texture" : [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/RAF77ERF.png"]
                 }
             ]
         },
