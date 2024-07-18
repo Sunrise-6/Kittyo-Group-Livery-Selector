@@ -639,9 +639,9 @@ function generateListHTML() {
             For more information about Livery Selector or issues please check the Github Releases page. 
           </div> 
           <div class = "aboutDiv"> 
-            <br> Build Number: v3.0.0p-2</br>
-            <br> JSC: v3.0.1 </br> 
-            <br> TPM: v3.0.1 </br> 
+            <br> Build Number: v3.0.0p-3</br>
+            <br> JSC: v3.0.2 </br> 
+            <br> TPM: v3.0.2 </br> 
           </div>
         </ul>
 `;
