@@ -547,6 +547,30 @@
                     ]
                 }
             ]
-        }
+        },
+        "247": {
+            "index": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "parts": [
+                0,
+                12,
+                20,
+                21
+            ],
+            "liveries": [
+                {
+                    "name": "GBA Test",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBAD8ADHDH.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBAD8ADHDH.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBAD8ADHDH.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBAD8ADHDH.png"
+                    ]
+                }
+         }
     }
 }
