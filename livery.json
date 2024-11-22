@@ -559,7 +559,9 @@
                 {
                     "name": "GBA Test",
                     "texture": [
-                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBA-Dash8.png"]
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBA-Dash8.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBA-Dash8.png"
+                    ]
                 }
             ]
          }
