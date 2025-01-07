@@ -1,15 +1,7 @@
 {
     "name": "Great British Air+Kittyo+LAC", //Name of your airline
-    "color": "red",             //The color of the name in LiverySelector
-    "bgcolor": "darkblue",      //The background color of the name in LiverySelector
-    
-
-
-
-
-
-
-
+    "color": "red",             //The colour of the name in LiverySelector
+    "bgcolor": "darkblue",      //The background colour of the name in LiverySelector
     "aircrafts": {
         "4": {
             "index": [
