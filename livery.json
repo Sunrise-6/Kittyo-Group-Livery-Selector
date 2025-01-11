@@ -529,6 +529,10 @@
                 {
                     "name": "Kalitus",
                     "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KLA330N.png"]
+                },
+                {
+                    "name": "Aerofuse",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/AerofuseA339.png"]
                 }
             ]
         },
