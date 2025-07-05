@@ -861,6 +861,12 @@
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/KTYA332.png"
+                    ]
+                }
             ],
             "labels": [
                 "Texture"
