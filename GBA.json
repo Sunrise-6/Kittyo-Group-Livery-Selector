@@ -932,13 +932,14 @@
                 {
                     "name": "RJA",
                     "texture": [
-                        "/backend/aircraft/repository/P170_267286_5193/texture_0.jpg",
-                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/RJA747.png"
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/RJA747.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ]
                 }
             ],
             "labels": [
-                "Texture"
+                "Texture",
+                "Wing texture"
             ]
             
         }
