@@ -17,6 +17,12 @@
                 {
                     "name": "Air Hanada",
                     "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHR7377.png"]
+                },
+                {
+                    "name": "RJA",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/RJA737-700_template.png"
+                    ]
                 }
             ]
         },
