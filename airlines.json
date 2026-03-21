@@ -718,6 +718,12 @@
                     "texture": [
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTY321n.png"
                     ]
+                },
+                {
+                    "name": "LAC",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/A321NEO_LAC_New_livery_Special.png"
+                    ]
                 }
             ],
             "labels": [
